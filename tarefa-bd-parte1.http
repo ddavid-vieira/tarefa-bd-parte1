@@ -1,0 +1,6 @@
+@tarefa_bd_parte1_HostAddress = http://localhost:5235
+
+GET {{tarefa_bd_parte1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
