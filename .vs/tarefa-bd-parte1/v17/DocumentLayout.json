@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\tarefa-bd-parte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\build-tarefa-bd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|c:\\users\\david\\tarefa-bd-parte1\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|solutionrelative:maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|c:\\users\\david\\tarefa-bd-parte1\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|solutionrelative:properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|c:\\users\\david\\tarefa-bd-parte1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|c:\\users\\david\\tarefa-bd-parte1\\tarefa-bd-parte1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{97787CFC-2809-4B48-8D0C-86A923B9E391}|tarefa-bd-parte1.csproj|solutionrelative:tarefa-bd-parte1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\david\\build-tarefa-bd\\web.config",
+              "RelativeDocumentMoniker": "..\\build-tarefa-bd\\web.config",
+              "ToolTip": "C:\\Users\\david\\build-tarefa-bd\\web.config",
+              "RelativeToolTip": "..\\build-tarefa-bd\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-19T00:57:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\david\\tarefa-bd-parte1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\david\\tarefa-bd-parte1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T00:56:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\david\\tarefa-bd-parte1\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\david\\tarefa-bd-parte1\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-19T00:55:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tarefa-bd-parte1.http",
+              "DocumentMoniker": "C:\\Users\\david\\tarefa-bd-parte1\\tarefa-bd-parte1.http",
+              "RelativeDocumentMoniker": "tarefa-bd-parte1.http",
+              "ToolTip": "C:\\Users\\david\\tarefa-bd-parte1\\tarefa-bd-parte1.http",
+              "RelativeToolTip": "tarefa-bd-parte1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-19T00:55:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\david\\tarefa-bd-parte1\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "MainDbContext.cs",
+              "ToolTip": "C:\\Users\\david\\tarefa-bd-parte1\\MainDbContext.cs",
+              "RelativeToolTip": "MainDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T22:03:46.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

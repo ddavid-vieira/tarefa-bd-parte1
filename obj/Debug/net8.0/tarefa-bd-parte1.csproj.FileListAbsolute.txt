@@ -30,9 +30,10 @@ C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\staticwebassets\msbuild.buildMu
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarefa-bd-parte1.props
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\scopedcss\bundle\tarefa-bd-parte1.styles.css
-C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-bd-parte1.csproj.CopyComplete
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-bd-parte1.dll
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\refint\tarefa-bd-parte1.dll
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-bd-parte1.pdb
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-bd-parte1.genruntimeconfig.cache
 C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\ref\tarefa-bd-parte1.dll
+C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-bd-parte1.sourcelink.json
+C:\Users\david\tarefa-bd-parte1\obj\Debug\net8.0\tarefa-b.C936A2B0.Up2Date
